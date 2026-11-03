@@ -1,0 +1,13 @@
+﻿Check,Status,Actual,Expected
+Required columns,PASS,All present,All required columns present
+Duplicate fixture IDs,PASS,0,0
+Matches with missing scores,PASS,0,0
+Negative goals,PASS,0,0
+Unfinished matches,PASS,0,0
+Regular Season matches,PASS,182,182
+Number of teams,PASS,14,14
+Matches per team,PASS,All teams: 26,14 teams with 26 matches each
+Goals consistency,PASS,436,436
+Team results consistency,PASS,All team records consistent,Wins + Draws + Losses = Played
+Total points consistency,PASS,504,504
+Wins and losses balance,PASS,"Wins: 140, Losses: 140",Wins = Losses

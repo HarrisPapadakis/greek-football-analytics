@@ -1,0 +1,237 @@
+﻿fixture_id,date,referee,venue,city,league,season,round,home_team,away_team,home_goals,away_goals,status
+1250505,2024-08-17 17:00:00+00:00,I. Papadopoulos,Panthessaliko Stadio,Volos,Super League 1,2024,Regular Season - 1,Volos NFC,Olympiakos Piraeus,0,2,FT
+1250509,2024-08-17 17:00:00+00:00,V. Fotias,Stadio Toumbas,Thessaloníki,Super League 1,2024,Regular Season - 1,PAOK,Panserraikos,3,2,FT
+1250506,2024-08-18 16:00:00+00:00,P. Tsiaras,Stadio Levadias,Levadia,Super League 1,2024,Regular Season - 1,Levadiakos,Kallithea,0,0,FT
+1250507,2024-08-18 17:00:00+00:00,A. Sidiropoulos,Olympiako Stadio Spyros Louis,Athens,Super League 1,2024,Regular Season - 1,Panathinaikos,Asteras Tripolis,0,1,FT
+1250504,2024-08-18 17:30:00+00:00,A. Tsakalidis,Stadio Peristeriou,Athens,Super League 1,2024,Regular Season - 1,Atromitos,Aris Thessalonikis,1,1,FT
+1250503,2024-08-18 19:00:00+00:00,S. Zabalas,OPAP Arena,Athens,Super League 1,2024,Regular Season - 1,AEK Athens FC,OFI,3,0,FT
+1250508,2024-08-19 18:00:00+00:00,F. Polychronis,Stadio Panetolikou,Agrinio,Super League 1,2024,Regular Season - 1,Panetolikos,Lamia,0,1,FT
+1250513,2024-08-24 16:30:00+00:00,K. Katikos,Stadio Thódoros Vardinoyánnis,Heraklion,Super League 1,2024,Regular Season - 2,OFI,Atromitos,1,1,FT
+1250515,2024-08-24 17:00:00+00:00,S. Tsimenteridis,Dimotiko Stadio Serron,Serres,Super League 1,2024,Regular Season - 2,Panserraikos,Aris Thessalonikis,0,1,FT
+1250510,2024-08-24 18:30:00+00:00,K. Poulikidis,OPAP Arena,Athens,Super League 1,2024,Regular Season - 2,AEK Athens FC,Lamia,1,1,FT
+1250511,2024-08-25 16:00:00+00:00,A. Papapetrou,Stadio Theodoros Kolokotronis,Tripoli,Super League 1,2024,Regular Season - 2,Asteras Tripolis,Volos NFC,0,1,FT
+1250516,2024-08-25 17:30:00+00:00,C. Vergetis,Stadio Toumbas,Thessaloníki,Super League 1,2024,Regular Season - 2,PAOK,Panetolikos,2,0,FT
+1250514,2024-08-25 18:00:00+00:00,K. Tsetsilas,Olympiako Stadio Spyros Louis,Athens,Super League 1,2024,Regular Season - 2,Panathinaikos,Levadiakos,1,0,FT
+1250512,2024-08-26 17:30:00+00:00,A. Evangelou,Stadio Georgios Karaiskáki,Piraeus,Super League 1,2024,Regular Season - 2,Olympiakos Piraeus,Kallithea,2,1,FT
+1250523,2024-08-31 16:30:00+00:00,A. Tzilos,Dimotiko Athlitiko Kentro Lamias,Lamia,Super League 1,2024,Regular Season - 3,Lamia,Olympiakos Piraeus,0,3,FT
+1250518,2024-08-31 17:00:00+00:00,I. Papadopoulos,Stadio Harilaou Kleánthis Vikelídis,Thessaloníki,Super League 1,2024,Regular Season - 3,Aris Thessalonikis,Asteras Tripolis,1,1,FT
+1250522,2024-08-31 19:00:00+00:00,P. Tsagarakis,Stadio Panetolikou,Agrinio,Super League 1,2024,Regular Season - 3,Panetolikos,Panserraikos,3,0,FT
+1250521,2024-09-01 16:00:00+00:00,F. Polychronis,Stadio Levadias,Levadia,Super League 1,2024,Regular Season - 3,Levadiakos,AEK Athens FC,0,3,FT
+1250520,2024-09-01 16:30:00+00:00,A. Tsakalidis,Panthessaliko Stadio,Volos,Super League 1,2024,Regular Season - 3,Volos NFC,OFI,1,3,FT
+1250519,2024-09-01 17:30:00+00:00,S. Zabalas,Stadio Peristeriou,Athens,Super League 1,2024,Regular Season - 3,Atromitos,PAOK,1,2,FT
+1250517,2024-09-01 19:00:00+00:00,A. Katsikogiannis,Stadio Apóstolos Nikolaidis,Athens,Super League 1,2024,Regular Season - 3,Kallithea,Panathinaikos,2,2,FT
+1250530,2024-09-14 15:00:00+00:00,A. Papapetrou,Dimotiko Athlitiko Kentro Lamias,Lamia,Super League 1,2024,Regular Season - 4,Lamia,Kallithea,0,0,FT
+1250525,2024-09-14 17:00:00+00:00,P. Tsiaras,Stadio Theodoros Kolokotronis,Tripoli,Super League 1,2024,Regular Season - 4,Asteras Tripolis,Atromitos,1,2,FT
+1250528,2024-09-15 13:30:00+00:00,K. Poulikidis,Dimotiko Stadio Serron,Serres,Super League 1,2024,Regular Season - 4,Panserraikos,Levadiakos,2,2,FT
+1250526,2024-09-15 15:30:00+00:00,C. Vergetis,Stadio Georgios Karaiskáki,Piraeus,Super League 1,2024,Regular Season - 4,Olympiakos Piraeus,Panetolikos,0,0,FT
+1250527,2024-09-15 17:30:00+00:00,A. Sidiropoulos,Stadio Thódoros Vardinoyánnis,Heraklion,Super League 1,2024,Regular Season - 4,OFI,Aris Thessalonikis,3,2,FT
+1250529,2024-09-15 17:30:00+00:00,S. Vinčić,Stadio Toumbas,Thessaloníki,Super League 1,2024,Regular Season - 4,PAOK,Panathinaikos,0,0,FT
+1250524,2024-09-16 17:00:00+00:00,V. Fotias,OPAP Arena,Athens,Super League 1,2024,Regular Season - 4,AEK Athens FC,Volos NFC,2,0,FT
+1250534,2024-09-21 14:00:00+00:00,P. Tsagarakis,Panthessaliko Stadio,Volos,Super League 1,2024,Regular Season - 5,Volos NFC,PAOK,1,4,FT
+1250532,2024-09-21 17:00:00+00:00,L. Pairetto,Stadio Harilaou Kleánthis Vikelídis,Thessaloníki,Super League 1,2024,Regular Season - 5,Aris Thessalonikis,Olympiakos Piraeus,2,1,FT
+1250537,2024-09-21 17:30:00+00:00,K. Tsetsilas,Stadio Panetolikou,Agrinio,Super League 1,2024,Regular Season - 5,Panetolikos,Asteras Tripolis,1,1,FT
+1250535,2024-09-22 13:30:00+00:00,A. Katsikogiannis,Stadio Levadias,Levadia,Super League 1,2024,Regular Season - 5,Levadiakos,OFI,1,1,FT
+1250536,2024-09-22 15:00:00+00:00,A. Evangelou,Olympiako Stadio Spyros Louis,Athens,Super League 1,2024,Regular Season - 5,Panathinaikos,Panserraikos,3,1,FT
+1250533,2024-09-22 17:30:00+00:00,S. Tsimenteridis,Stadio Peristeriou,Athens,Super League 1,2024,Regular Season - 5,Atromitos,Lamia,4,2,FT
+1250531,2024-09-22 18:00:00+00:00,A. Tzilos,Stadio Apóstolos Nikolaidis,Athens,Super League 1,2024,Regular Season - 5,Kallithea,AEK Athens FC,0,0,FT
+1250540,2024-09-28 14:00:00+00:00,K. Katikos,Panthessaliko Stadio,Volos,Super League 1,2024,Regular Season - 6,Volos NFC,Kallithea,1,1,FT
+1250539,2024-09-28 17:00:00+00:00,A. Tsakalidis,Stadio Theodoros Kolokotronis,Tripoli,Super League 1,2024,Regular Season - 6,Asteras Tripolis,Levadiakos,1,1,FT
+1250542,2024-09-29 14:00:00+00:00,P. Tsiaras,Stadio Thódoros Vardinoyánnis,Heraklion,Super League 1,2024,Regular Season - 6,OFI,Panetolikos,1,2,FT
+1250541,2024-09-29 15:00:00+00:00,A. Papapetrou,Stadio Georgios Karaiskáki,Piraeus,Super League 1,2024,Regular Season - 6,Olympiakos Piraeus,Atromitos,2,0,FT
+1250543,2024-09-29 17:30:00+00:00,H. Osmers,Stadio Toumbas,Thessaloníki,Super League 1,2024,Regular Season - 6,PAOK,Aris Thessalonikis,0,1,FT
+1250538,2024-09-29 18:30:00+00:00,S. Stegemann,OPAP Arena,Athens,Super League 1,2024,Regular Season - 6,AEK Athens FC,Panathinaikos,2,0,FT
+1250544,2024-09-30 17:00:00+00:00,K. Tsetsilas,Dimotiko Athlitiko Kentro Lamias,Lamia,Super League 1,2024,Regular Season - 6,Lamia,Panserraikos,1,2,FT
+1250547,2024-10-05 15:30:00+00:00,A. Sidiropoulos,Stadio Peristeriou,Athens,Super League 1,2024,Regular Season - 7,Atromitos,Volos NFC,1,2,FT
+1250550,2024-10-05 16:30:00+00:00,K. Poulikidis,Stadio Panetolikou,Agrinio,Super League 1,2024,Regular Season - 7,Panetolikos,AEK Athens FC,1,0,FT
+1250546,2024-10-05 17:00:00+00:00,S. Zabalas,Stadio Harilaou Kleánthis Vikelídis,Thessaloníki,Super League 1,2024,Regular Season - 7,Aris Thessalonikis,Lamia,2,0,FT
+1250551,2024-10-06 13:00:00+00:00,I. Papadopoulos,Dimotiko Stadio Serron,Serres,Super League 1,2024,Regular Season - 7,Panserraikos,OFI,2,3,FT
+1250545,2024-10-06 14:00:00+00:00,V. Fotias,Stadio Apóstolos Nikolaidis,Athens,Super League 1,2024,Regular Season - 7,Kallithea,Asteras Tripolis,1,3,FT
+1250548,2024-10-06 17:30:00+00:00,C. Vergetis,Stadio Levadias,Levadia,Super League 1,2024,Regular Season - 7,Levadiakos,PAOK,0,2,FT
+1250549,2024-10-06 17:30:00+00:00,D. Siebert,Olympiako Stadio Spyros Louis,Athens,Super League 1,2024,Regular Season - 7,Panathinaikos,Olympiakos Piraeus,0,0,FT
+1250555,2024-10-19 14:00:00+00:00,A. Katsikogiannis,Panthessaliko Stadio,Volos,Super League 1,2024,Regular Season - 8,Volos NFC,Panserraikos,0,1,FT
+1250554,2024-10-19 17:00:00+00:00,A. Evangelou,Stadio Peristeriou,Athens,Super League 1,2024,Regular Season - 8,Atromitos,Panetolikos,0,2,FT
+1250558,2024-10-19 17:30:00+00:00,K. Katikos,Dimotiko Athlitiko Kentro Lamias,Lamia,Super League 1,2024,Regular Season - 8,Lamia,Asteras Tripolis,0,0,FT
+1250556,2024-10-20 13:00:00+00:00,S. Tsimenteridis,Stadio Georgios Karaiskáki,Piraeus,Super League 1,2024,Regular Season - 8,Olympiakos Piraeus,Levadiakos,2,2,FT
+1250557,2024-10-20 15:00:00+00:00,A. Tzilos,Stadio Thódoros Vardinoyánnis,Heraklion,Super League 1,2024,Regular Season - 8,OFI,Panathinaikos,0,1,FT
+1250553,2024-10-20 17:00:00+00:00,P. Tsagarakis,Stadio Harilaou Kleánthis Vikelídis,Thessaloníki,Super League 1,2024,Regular Season - 8,Aris Thessalonikis,Kallithea,2,0,FT
+1250552,2024-10-20 17:30:00+00:00,R. Obrenović,OPAP Arena,Athens,Super League 1,2024,Regular Season - 8,AEK Athens FC,PAOK,1,1,FT
+1250563,2024-10-26 14:00:00+00:00,K. Tsetsilas,Stadio Panetolikou,Agrinio,Super League 1,2024,Regular Season - 9,Panetolikos,Volos NFC,0,1,FT
+1250561,2024-10-26 14:30:00+00:00,A. Papapetrou,Stadio Levadias,Levadia,Super League 1,2024,Regular Season - 9,Levadiakos,Lamia,2,2,FT
+1250564,2024-10-26 17:00:00+00:00,P. Tsiaras,Dimotiko Stadio Serron,Serres,Super League 1,2024,Regular Season - 9,Panserraikos,AEK Athens FC,1,0,FT
+1250559,2024-10-27 14:00:00+00:00,V. Fotias,Stadio Theodoros Kolokotronis,Tripoli,Super League 1,2024,Regular Season - 9,Asteras Tripolis,Olympiakos Piraeus,1,0,FT
+1250562,2024-10-27 15:00:00+00:00,F. Zwayer,Olympiako Stadio Spyros Louis,Athens,Super League 1,2024,Regular Season - 9,Panathinaikos,Aris Thessalonikis,1,1,FT
+1250565,2024-10-27 19:00:00+00:00,A. Tsakalidis,Stadio Toumbas,Thessaloníki,Super League 1,2024,Regular Season - 9,PAOK,OFI,1,2,FT
+1250560,2024-10-27 19:30:00+00:00,F. Polychronis,Stadio Apóstolos Nikolaidis,Athens,Super League 1,2024,Regular Season - 9,Kallithea,Atromitos,0,3,FT
+1250571,2024-11-02 15:00:00+00:00,A. Katsikogiannis,Stadio Georgios Karaiskáki,Piraeus,Super League 1,2024,Regular Season - 10,Olympiakos Piraeus,Panserraikos,2,1,FT
+1250567,2024-11-02 18:30:00+00:00,I. Papadopoulos,Stadio Apóstolos Nikolaidis,Athens,Super League 1,2024,Regular Season - 10,Kallithea,Panetolikos,1,1,FT
+1250568,2024-11-03 14:30:00+00:00,A. Tzilos,Stadio Harilaou Kleánthis Vikelídis,Thessaloníki,Super League 1,2024,Regular Season - 10,Aris Thessalonikis,Levadiakos,3,1,FT
+1250570,2024-11-03 15:00:00+00:00,A. Evangelou,Panthessaliko Stadio,Volos,Super League 1,2024,Regular Season - 10,Volos NFC,Panathinaikos,0,1,FT
+1250569,2024-11-03 18:30:00+00:00,C. Vergetis,Stadio Peristeriou,Athens,Super League 1,2024,Regular Season - 10,Atromitos,AEK Athens FC,0,1,FT
+1250572,2024-11-03 18:30:00+00:00,S. Tsimenteridis,Dimotiko Athlitiko Kentro Lamias,Lamia,Super League 1,2024,Regular Season - 10,Lamia,PAOK,1,2,FT
+1250566,2024-11-04 15:30:00+00:00,S. Zabalas,Stadio Theodoros Kolokotronis,Tripoli,Super League 1,2024,Regular Season - 10,Asteras Tripolis,OFI,3,0,FT
+1250577,2024-11-09 15:00:00+00:00,S. Tsimenteridis,Stadio Panetolikou,Agrinio,Super League 1,2024,Regular Season - 11,Panetolikos,Aris Thessalonikis,2,1,FT
+1250578,2024-11-09 16:45:00+00:00,V. Fotias,Dimotiko Stadio Serron,Serres,Super League 1,2024,Regular Season - 11,Panserraikos,Atromitos,2,3,FT
+1250573,2024-11-09 18:00:00+00:00,A. Tzilos,OPAP Arena,Athens,Super League 1,2024,Regular Season - 11,AEK Athens FC,Asteras Tripolis,3,0,FT
+1250575,2024-11-10 14:00:00+00:00,A. Papapetrou,Stadio Thódoros Vardinoyánnis,Heraklion,Super League 1,2024,Regular Season - 11,OFI,Kallithea,2,2,FT
+1250574,2024-11-10 14:30:00+00:00,F. Polychronis,Stadio Levadias,Levadia,Super League 1,2024,Regular Season - 11,Levadiakos,Volos NFC,3,2,FT
+1250576,2024-11-10 17:30:00+00:00,A. Tsakalidis,Olympiako Stadio Spyros Louis,Athens,Super League 1,2024,Regular Season - 11,Panathinaikos,Lamia,1,0,FT
+1250579,2024-11-10 18:30:00+00:00,S. Jablonski,Stadio Toumbas,Thessaloníki,Super League 1,2024,Regular Season - 11,PAOK,Olympiakos Piraeus,2,3,FT
+1250581,2024-11-22 17:30:00+00:00,S. Zabalas,Stadio Apóstolos Nikolaidis,Athens,Super League 1,2024,Regular Season - 12,Kallithea,Panserraikos,1,2,FT
+1250586,2024-11-23 15:00:00+00:00,A. Evangelou,Dimotiko Athlitiko Kentro Lamias,Lamia,Super League 1,2024,Regular Season - 12,Lamia,OFI,1,1,FT
+1250582,2024-11-23 17:30:00+00:00,P. Tsagarakis,Stadio Harilaou Kleánthis Vikelídis,Thessaloníki,Super League 1,2024,Regular Season - 12,Aris Thessalonikis,Volos NFC,0,1,FT
+1250585,2024-11-24 15:00:00+00:00,C. Vergetis,Stadio Panetolikou,Agrinio,Super League 1,2024,Regular Season - 12,Panetolikos,Panathinaikos,1,2,FT
+1250580,2024-11-24 17:30:00+00:00,K. Katikos,Stadio Theodoros Kolokotronis,Tripoli,Super League 1,2024,Regular Season - 12,Asteras Tripolis,PAOK,1,2,FT
+1250584,2024-11-24 18:30:00+00:00,H. Osmers,Stadio Georgios Karaiskáki,Piraeus,Super League 1,2024,Regular Season - 12,Olympiakos Piraeus,AEK Athens FC,4,1,FT
+1250583,2024-11-25 16:00:00+00:00,P. Tsiaras,Stadio Peristeriou,Athens,Super League 1,2024,Regular Season - 12,Atromitos,Levadiakos,2,1,FT
+1250588,2024-11-30 15:00:00+00:00,S. Tsimenteridis,Panthessaliko Stadio,Volos,Super League 1,2024,Regular Season - 13,Volos NFC,Lamia,0,0,FT
+1250589,2024-11-30 17:30:00+00:00,V. Fotias,Stadio Levadias,Levadia,Super League 1,2024,Regular Season - 13,Levadiakos,Panetolikos,1,1,FT
+1250587,2024-11-30 18:30:00+00:00,Fábio Veríssimo,OPAP Arena,Athens,Super League 1,2024,Regular Season - 13,AEK Athens FC,Aris Thessalonikis,4,0,FT
+1250592,2024-12-01 13:30:00+00:00,A. Papapetrou,Dimotiko Stadio Serron,Serres,Super League 1,2024,Regular Season - 13,Panserraikos,Asteras Tripolis,2,1,FT
+1250590,2024-12-01 15:00:00+00:00,A. Tsakalidis,Stadio Thódoros Vardinoyánnis,Heraklion,Super League 1,2024,Regular Season - 13,OFI,Olympiakos Piraeus,0,2,FT
+1250593,2024-12-01 17:00:00+00:00,A. Tzilos,Stadio Toumbas,Thessaloníki,Super League 1,2024,Regular Season - 13,PAOK,Kallithea,2,2,FT
+1250591,2024-12-01 18:30:00+00:00,A. Katsikogiannis,Olympiako Stadio Spyros Louis,Athens,Super League 1,2024,Regular Season - 13,Panathinaikos,Atromitos,1,1,FT
+1250597,2024-12-07 15:00:00+00:00,V. Fotias,Stadio Georgios Karaiskáki,Piraeus,Super League 1,2024,Regular Season - 14,Olympiakos Piraeus,Volos NFC,3,0,FT
+1250596,2024-12-07 17:30:00+00:00,A. Evangelou,Stadio Harilaou Kleánthis Vikelídis,Thessaloníki,Super League 1,2024,Regular Season - 14,Aris Thessalonikis,Atromitos,2,1,FT
+1250599,2024-12-08 13:30:00+00:00,C. Vergetis,Dimotiko Stadio Serron,Serres,Super League 1,2024,Regular Season - 14,Panserraikos,PAOK,1,4,FT
+1250598,2024-12-08 15:00:00+00:00,S. Tsimenteridis,Stadio Thódoros Vardinoyánnis,Heraklion,Super League 1,2024,Regular Season - 14,OFI,AEK Athens FC,1,2,FT
+1250594,2024-12-08 17:00:00+00:00,F. Polychronis,Stadio Theodoros Kolokotronis,Tripoli,Super League 1,2024,Regular Season - 14,Asteras Tripolis,Panathinaikos,0,1,FT
+1250600,2024-12-08 18:30:00+00:00,A. Papapetrou,Dimotiko Athlitiko Kentro Lamias,Lamia,Super League 1,2024,Regular Season - 14,Lamia,Panetolikos,0,1,FT
+1250595,2024-12-09 15:30:00+00:00,K. Katikos,Stadio Apóstolos Nikolaidis,Athens,Super League 1,2024,Regular Season - 14,Kallithea,Levadiakos,2,4,FT
+1250607,2024-12-14 15:00:00+00:00,I. Papadopoulos,Dimotiko Athlitiko Kentro Lamias,Lamia,Super League 1,2024,Regular Season - 15,Lamia,AEK Athens FC,0,1,FT
+1250603,2024-12-14 17:30:00+00:00,A. Sidiropoulos,Stadio Peristeriou,Athens,Super League 1,2024,Regular Season - 15,Atromitos,OFI,0,0,FT
+1250604,2024-12-14 18:30:00+00:00,P. Tsiaras,Panthessaliko Stadio,Volos,Super League 1,2024,Regular Season - 15,Volos NFC,Asteras Tripolis,2,1,FT
+1250602,2024-12-15 13:30:00+00:00,F. Polychronis,Stadio Harilaou Kleánthis Vikelídis,Thessaloníki,Super League 1,2024,Regular Season - 15,Aris Thessalonikis,Panserraikos,1,0,FT
+1250605,2024-12-15 16:00:00+00:00,A. Papapetrou,Stadio Levadias,Levadia,Super League 1,2024,Regular Season - 15,Levadiakos,Panathinaikos,0,1,FT
+1250606,2024-12-15 17:00:00+00:00,A. Tsakalidis,Stadio Panetolikou,Agrinio,Super League 1,2024,Regular Season - 15,Panetolikos,PAOK,0,1,FT
+1250601,2024-12-16 18:30:00+00:00,A. Evangelou,Stadio Apóstolos Nikolaidis,Athens,Super League 1,2024,Regular Season - 15,Kallithea,Olympiakos Piraeus,1,1,FT
+1250610,2024-12-21 17:00:00+00:00,C. Vergetis,Stadio Georgios Karaiskáki,Piraeus,Super League 1,2024,Regular Season - 16,Olympiakos Piraeus,Lamia,1,0,FT
+1250613,2024-12-22 13:30:00+00:00,P. Tsagarakis,Dimotiko Stadio Serron,Serres,Super League 1,2024,Regular Season - 16,Panserraikos,Panetolikos,0,0,FT
+1250612,2024-12-22 16:00:00+00:00,A. Evangelou,Olympiako Stadio Spyros Louis,Athens,Super League 1,2024,Regular Season - 16,Panathinaikos,Kallithea,1,0,FT
+1250614,2024-12-22 17:30:00+00:00,V. Fotias,Stadio Toumbas,Thessaloníki,Super League 1,2024,Regular Season - 16,PAOK,Atromitos,3,0,FT
+1250608,2024-12-22 19:00:00+00:00,A. Tsakalidis,OPAP Arena,Athens,Super League 1,2024,Regular Season - 16,AEK Athens FC,Levadiakos,1,1,FT
+1250609,2024-12-23 13:00:00+00:00,A. Katsikogiannis,Stadio Theodoros Kolokotronis,Tripoli,Super League 1,2024,Regular Season - 16,Asteras Tripolis,Aris Thessalonikis,2,1,FT
+1250611,2024-12-23 16:00:00+00:00,I. Papadopoulos,Stadio Thódoros Vardinoyánnis,Heraklion,Super League 1,2024,Regular Season - 16,OFI,Volos NFC,4,0,FT
+1250615,2025-01-04 15:00:00+00:00,F. Polychronis,Stadio Apóstolos Nikolaidis,Athens,Super League 1,2024,Regular Season - 17,Kallithea,Lamia,2,1,FT
+1250619,2025-01-05 13:00:00+00:00,K. Tsetsilas,Stadio Levadias,Levadia,Super League 1,2024,Regular Season - 17,Levadiakos,Panserraikos,1,0,FT
+1250616,2025-01-05 14:30:00+00:00,A. Tzilos,Stadio Harilaou Kleánthis Vikelídis,Thessaloníki,Super League 1,2024,Regular Season - 17,Aris Thessalonikis,OFI,0,2,FT
+1250618,2025-01-05 15:00:00+00:00,K. Katikos,Panthessaliko Stadio,Volos,Super League 1,2024,Regular Season - 17,Volos NFC,AEK Athens FC,2,4,FT
+1250617,2025-01-05 17:30:00+00:00,S. Zabalas,Stadio Peristeriou,Athens,Super League 1,2024,Regular Season - 17,Atromitos,Asteras Tripolis,0,1,FT
+1250620,2025-01-05 18:30:00+00:00,M. Krogh,Olympiako Stadio Spyros Louis,Athens,Super League 1,2024,Regular Season - 17,Panathinaikos,PAOK,2,1,FT
+1250621,2025-01-06 16:00:00+00:00,A. Sidiropoulos,Stadio Panetolikou,Agrinio,Super League 1,2024,Regular Season - 17,Panetolikos,Olympiakos Piraeus,0,2,FT
+1250624,2025-01-11 18:30:00+00:00,G. Nyberg,Stadio Georgios Karaiskáki,Piraeus,Super League 1,2024,Regular Season - 18,Olympiakos Piraeus,Aris Thessalonikis,2,1,FT
+1250626,2025-01-12 14:30:00+00:00,P. Tsagarakis,Dimotiko Stadio Serron,Serres,Super League 1,2024,Regular Season - 18,Panserraikos,Panathinaikos,2,2,FT
+1250628,2025-01-12 15:00:00+00:00,A. Tzilos,Dimotiko Athlitiko Kentro Lamias,Lamia,Super League 1,2024,Regular Season - 18,Lamia,Atromitos,0,3,FT
+1250627,2025-01-12 17:30:00+00:00,F. Polychronis,Stadio Toumbas,Thessaloníki,Super League 1,2024,Regular Season - 18,PAOK,Volos NFC,1,2,FT
+1250622,2025-01-12 18:30:00+00:00,A. Katsikogiannis,OPAP Arena,Athens,Super League 1,2024,Regular Season - 18,AEK Athens FC,Kallithea,2,0,FT
+1250623,2025-01-13 16:00:00+00:00,V. Fotias,Stadio Theodoros Kolokotronis,Tripoli,Super League 1,2024,Regular Season - 18,Asteras Tripolis,Panetolikos,2,0,FT
+1250625,2025-01-13 16:00:00+00:00,P. Tsiaras,Stadio Thódoros Vardinoyánnis,Heraklion,Super League 1,2024,Regular Season - 18,OFI,Levadiakos,0,0,FT
+1250629,2025-01-18 15:00:00+00:00,A. Sidiropoulos,Stadio Apóstolos Nikolaidis,Athens,Super League 1,2024,Regular Season - 19,Kallithea,Volos NFC,2,0,FT
+1250631,2025-01-19 13:00:00+00:00,V. Fotias,Stadio Peristeriou,Athens,Super League 1,2024,Regular Season - 19,Atromitos,Olympiakos Piraeus,1,2,FT
+1250632,2025-01-19 14:30:00+00:00,K. Katikos,Stadio Levadias,Levadia,Super League 1,2024,Regular Season - 19,Levadiakos,Asteras Tripolis,1,2,FT
+1250634,2025-01-19 14:30:00+00:00,A. Tsakalidis,Stadio Panetolikou,Agrinio,Super League 1,2024,Regular Season - 19,Panetolikos,OFI,1,0,FT
+1250630,2025-01-19 17:00:00+00:00,S. Stegemann,Stadio Harilaou Kleánthis Vikelídis,Thessaloníki,Super League 1,2024,Regular Season - 19,Aris Thessalonikis,PAOK,0,0,FT
+1250633,2025-01-19 18:30:00+00:00,E. Eskås,Olympiako Stadio Spyros Louis,Athens,Super League 1,2024,Regular Season - 19,Panathinaikos,AEK Athens FC,1,0,FT
+1250635,2025-01-20 16:00:00+00:00,S. Zabalas,Dimotiko Stadio Serron,Serres,Super League 1,2024,Regular Season - 19,Panserraikos,Lamia,2,0,FT
+1250638,2025-01-24 18:00:00+00:00,C. Vergetis,Panthessaliko Stadio,Volos,Super League 1,2024,Regular Season - 20,Volos NFC,Atromitos,0,1,FT
+1250640,2025-01-25 15:00:00+00:00,K. Katikos,Stadio Thódoros Vardinoyánnis,Heraklion,Super League 1,2024,Regular Season - 20,OFI,Panserraikos,3,2,FT
+1250637,2025-01-25 15:00:00+00:00,K. Tsetsilas,Stadio Theodoros Kolokotronis,Tripoli,Super League 1,2024,Regular Season - 20,Asteras Tripolis,Kallithea,1,0,FT
+1250636,2025-01-25 18:00:00+00:00,F. Polychronis,OPAP Arena,Athens,Super League 1,2024,Regular Season - 20,AEK Athens FC,Panetolikos,1,0,FT
+1250642,2025-01-26 15:00:00+00:00,A. Evangelou,Dimotiko Athlitiko Kentro Lamias,Lamia,Super League 1,2024,Regular Season - 20,Lamia,Aris Thessalonikis,0,2,FT
+1250641,2025-01-26 17:30:00+00:00,A. Katsikogiannis,Stadio Toumbas,Thessaloníki,Super League 1,2024,Regular Season - 20,PAOK,Levadiakos,1,0,FT
+1250639,2025-01-26 18:30:00+00:00,S. Vinčić,Stadio Georgios Karaiskáki,Piraeus,Super League 1,2024,Regular Season - 20,Olympiakos Piraeus,Panathinaikos,1,1,FT
+1250646,2025-02-01 16:00:00+00:00,V. Fotias,Olympiako Stadio Spyros Louis,Athens,Super League 1,2024,Regular Season - 21,Panathinaikos,OFI,3,2,FT
+1250648,2025-02-01 17:30:00+00:00,A. Tzilos,Dimotiko Stadio Serron,Serres,Super League 1,2024,Regular Season - 21,Panserraikos,Volos NFC,1,1,FT
+1250645,2025-02-02 14:30:00+00:00,I. Papadopoulos,Stadio Levadias,Levadia,Super League 1,2024,Regular Season - 21,Levadiakos,Olympiakos Piraeus,0,1,FT
+1250644,2025-02-02 15:00:00+00:00,P. Tsiaras,Stadio Apóstolos Nikolaidis,Athens,Super League 1,2024,Regular Season - 21,Kallithea,Aris Thessalonikis,0,1,FT
+1250649,2025-02-02 17:30:00+00:00,F. Zwayer,Stadio Toumbas,Thessaloníki,Super League 1,2024,Regular Season - 21,PAOK,AEK Athens FC,1,2,FT
+1250647,2025-02-02 18:30:00+00:00,A. Katsikogiannis,Stadio Panetolikou,Agrinio,Super League 1,2024,Regular Season - 21,Panetolikos,Atromitos,0,1,FT
+1250643,2025-02-03 16:00:00+00:00,P. Tsagarakis,Stadio Theodoros Kolokotronis,Tripoli,Super League 1,2024,Regular Season - 21,Asteras Tripolis,Lamia,1,0,FT
+1250653,2025-02-08 15:00:00+00:00,A. Papapetrou,Panthessaliko Stadio,Volos,Super League 1,2024,Regular Season - 22,Volos NFC,Panetolikos,0,1,FT
+1250655,2025-02-08 18:00:00+00:00,F. Polychronis,Stadio Thódoros Vardinoyánnis,Heraklion,Super League 1,2024,Regular Season - 22,OFI,PAOK,0,5,FT
+1250654,2025-02-09 15:00:00+00:00,A. Tsakalidis,Stadio Georgios Karaiskáki,Piraeus,Super League 1,2024,Regular Season - 22,Olympiakos Piraeus,Asteras Tripolis,1,1,FT
+1250651,2025-02-09 17:30:00+00:00,H. Osmers,Stadio Harilaou Kleánthis Vikelídis,Thessaloníki,Super League 1,2024,Regular Season - 22,Aris Thessalonikis,Panathinaikos,2,0,FT
+1250650,2025-02-09 18:30:00+00:00,A. Evangelou,OPAP Arena,Athens,Super League 1,2024,Regular Season - 22,AEK Athens FC,Panserraikos,5,0,FT
+1250656,2025-02-10 16:00:00+00:00,A. Sidiropoulos,Dimotiko Athlitiko Kentro Lamias,Lamia,Super League 1,2024,Regular Season - 22,Lamia,Levadiakos,0,2,FT
+1250652,2025-02-10 16:00:00+00:00,S. Zabalas,Stadio Peristeriou,Athens,Super League 1,2024,Regular Season - 22,Atromitos,Kallithea,1,2,FT
+1250659,2025-02-15 15:00:00+00:00,I. Papadopoulos,Stadio Thódoros Vardinoyánnis,Heraklion,Super League 1,2024,Regular Season - 23,OFI,Asteras Tripolis,2,1,FT
+1250657,2025-02-15 18:00:00+00:00,K. Tsetsilas,OPAP Arena,Athens,Super League 1,2024,Regular Season - 23,AEK Athens FC,Atromitos,2,1,FT
+1250658,2025-02-16 13:00:00+00:00,C. Vergetis,Stadio Levadias,Levadia,Super League 1,2024,Regular Season - 23,Levadiakos,Aris Thessalonikis,4,1,FT
+1250660,2025-02-16 15:00:00+00:00,A. Tsakalidis,Olympiako Stadio Spyros Louis,Athens,Super League 1,2024,Regular Season - 23,Panathinaikos,Volos NFC,2,1,FT
+1250662,2025-02-16 15:00:00+00:00,A. Katsikogiannis,Dimotiko Stadio Serron,Serres,Super League 1,2024,Regular Season - 23,Panserraikos,Olympiakos Piraeus,0,4,FT
+1250663,2025-02-16 18:00:00+00:00,K. Katikos,Stadio Toumbas,Thessaloníki,Super League 1,2024,Regular Season - 23,PAOK,Lamia,7,0,FT
+1250661,2025-02-16 18:30:00+00:00,V. Fotias,Stadio Panetolikou,Agrinio,Super League 1,2024,Regular Season - 23,Panetolikos,Kallithea,2,0,FT
+1250665,2025-02-22 15:00:00+00:00,A. Tzilos,Stadio Apóstolos Nikolaidis,Athens,Super League 1,2024,Regular Season - 24,Kallithea,OFI,1,3,FT
+1250667,2025-02-22 17:30:00+00:00,P. Tsiaras,Stadio Peristeriou,Athens,Super League 1,2024,Regular Season - 24,Atromitos,Panserraikos,1,0,FT
+1250668,2025-02-22 18:00:00+00:00,V. Fotias,Panthessaliko Stadio,Volos,Super League 1,2024,Regular Season - 24,Volos NFC,Levadiakos,1,2,FT
+1250666,2025-02-23 14:30:00+00:00,A. Sidiropoulos,Stadio Harilaou Kleánthis Vikelídis,Thessaloníki,Super League 1,2024,Regular Season - 24,Aris Thessalonikis,Panetolikos,2,1,FT
+1250670,2025-02-23 15:00:00+00:00,A. Evangelou,Dimotiko Athlitiko Kentro Lamias,Lamia,Super League 1,2024,Regular Season - 24,Lamia,Panathinaikos,3,1,FT
+1250664,2025-02-23 17:30:00+00:00,A. Papapetrou,Stadio Theodoros Kolokotronis,Tripoli,Super League 1,2024,Regular Season - 24,Asteras Tripolis,AEK Athens FC,0,3,FT
+1250669,2025-02-23 18:30:00+00:00,T. Stieler,Stadio Georgios Karaiskáki,Piraeus,Super League 1,2024,Regular Season - 24,Olympiakos Piraeus,PAOK,2,1,FT
+1250672,2025-03-01 15:00:00+00:00,I. Papadopoulos,Panthessaliko Stadio,Volos,Super League 1,2024,Regular Season - 25,Volos NFC,Aris Thessalonikis,1,1,FT
+1250676,2025-03-01 15:00:00+00:00,A. Papapetrou,Dimotiko Stadio Serron,Serres,Super League 1,2024,Regular Season - 25,Panserraikos,Kallithea,2,1,FT
+1250675,2025-03-01 18:00:00+00:00,C. Vergetis,Olympiako Stadio Spyros Louis,Athens,Super League 1,2024,Regular Season - 25,Panathinaikos,Panetolikos,2,0,FT
+1250673,2025-03-02 14:30:00+00:00,A. Evangelou,Stadio Levadias,Levadia,Super League 1,2024,Regular Season - 25,Levadiakos,Atromitos,1,2,FT
+1250674,2025-03-02 15:00:00+00:00,A. Tsakalidis,Stadio Thódoros Vardinoyánnis,Heraklion,Super League 1,2024,Regular Season - 25,OFI,Lamia,3,0,FT
+1250677,2025-03-02 17:30:00+00:00,A. Sidiropoulos,Stadio Toumbas,Thessaloníki,Super League 1,2024,Regular Season - 25,PAOK,Asteras Tripolis,2,0,FT
+1250671,2025-03-02 18:30:00+00:00,S. Jablonski,OPAP Arena,Athens,Super League 1,2024,Regular Season - 25,AEK Athens FC,Olympiakos Piraeus,0,1,FT
+1250683,2025-03-09 17:00:00+00:00,A. Papapetrou,Stadio Panetolikou,Agrinio,Super League 1,2024,Regular Season - 26,Panetolikos,Levadiakos,0,0,FT
+1250684,2025-03-09 17:00:00+00:00,A. Sidiropoulos,Dimotiko Athlitiko Kentro Lamias,Lamia,Super League 1,2024,Regular Season - 26,Lamia,Volos NFC,1,0,FT
+1250682,2025-03-09 17:00:00+00:00,A. Evangelou,Stadio Georgios Karaiskáki,Piraeus,Super League 1,2024,Regular Season - 26,Olympiakos Piraeus,OFI,1,0,FT
+1250679,2025-03-09 17:00:00+00:00,K. Katikos,Stadio Apóstolos Nikolaidis,Athens,Super League 1,2024,Regular Season - 26,Kallithea,PAOK,2,1,FT
+1250680,2025-03-09 17:00:00+00:00,D. Siebert,Stadio Harilaou Kleánthis Vikelídis,Thessaloníki,Super League 1,2024,Regular Season - 26,Aris Thessalonikis,AEK Athens FC,0,0,FT
+1250681,2025-03-09 17:00:00+00:00,V. Fotias,Stadio Peristeriou,Athens,Super League 1,2024,Regular Season - 26,Atromitos,Panathinaikos,1,1,FT
+1250678,2025-03-09 17:00:00+00:00,A. Tsakalidis,Stadio Theodoros Kolokotronis,Tripoli,Super League 1,2024,Regular Season - 26,Asteras Tripolis,Panserraikos,1,2,FT
+1360708,2025-03-29 14:30:00+00:00,A. Sidiropoulos,Stadio Thódoros Vardinoyánnis,Heraklion,Super League 1,2024,Conference League Play-off Group - 1,OFI,Atromitos,1,2,FT
+1360720,2025-03-29 16:30:00+00:00,C. Vergetis,Stadio Apóstolos Nikolaidis,Athens,Super League 1,2024,Relegation Round - 1,Kallithea,Volos NFC,1,1,FT
+1360709,2025-03-29 17:30:00+00:00,V. Fotias,Stadio Theodoros Kolokotronis,Tripoli,Super League 1,2024,Conference League Play-off Group - 1,Asteras Tripolis,Aris Thessalonikis,0,2,FT
+1360721,2025-03-29 18:30:00+00:00,A. Tsakalidis,Stadio Panetolikou,Agrinio,Super League 1,2024,Relegation Round - 1,Panetolikos,Levadiakos,1,2,FT
+1360722,2025-03-30 14:00:00+00:00,A. Evangelou,Dimotiko Stadio Serron,Serres,Super League 1,2024,Relegation Round - 1,Panserraikos,Lamia,1,1,FT
+1360696,2025-03-30 16:00:00+00:00,F. Brych,OPAP Arena,Athens,Super League 1,2024,Championship Round - 1,AEK Athens FC,PAOK,2,3,FT
+1360697,2025-03-30 18:00:00+00:00,R. Obrenović,Stadio Georgios Karaiskáki,Piraeus,Super League 1,2024,Championship Round - 1,Olympiakos Piraeus,Panathinaikos,4,2,FT
+1360723,2025-04-05 14:00:00+00:00,A. Sidiropoulos,Stadio Levadias,Levadia,Super League 1,2024,Relegation Round - 2,Levadiakos,Panserraikos,3,0,FT
+1360710,2025-04-05 16:30:00+00:00,A. Katsikogiannis,Stadio Harilaou Kleánthis Vikelídis,Thessaloníki,Super League 1,2024,Conference League Play-off Group - 2,Aris Thessalonikis,OFI,2,0,FT
+1360724,2025-04-05 17:00:00+00:00,V. Fotias,Dimotiko Athlitiko Kentro Lamias,Lamia,Super League 1,2024,Relegation Round - 2,Lamia,Kallithea,0,2,FT
+1360725,2025-04-06 14:00:00+00:00,F. Polychronis,Panthessaliko Stadio,Volos,Super League 1,2024,Relegation Round - 2,Volos NFC,Panetolikos,0,0,FT
+1360698,2025-04-06 16:30:00+00:00,S. Stegemann,Stadio Toumbas,Thessaloníki,Super League 1,2024,Championship Round - 2,PAOK,Olympiakos Piraeus,2,1,FT
+1360699,2025-04-06 18:30:00+00:00,D. Sylwestrzak,Olympiako Stadio Spyros Louis,Athens,Super League 1,2024,Championship Round - 2,Panathinaikos,AEK Athens FC,3,1,FT
+1360711,2025-04-07 15:00:00+00:00,I. Papadopoulos,Stadio Peristeriou,Athens,Super League 1,2024,Conference League Play-off Group - 2,Atromitos,Asteras Tripolis,0,1,FT
+1360726,2025-04-12 14:00:00+00:00,C. Vergetis,Stadio Panetolikou,Agrinio,Super League 1,2024,Relegation Round - 3,Panetolikos,Lamia,1,0,FT
+1360727,2025-04-12 16:30:00+00:00,S. Tsimenteridis,Dimotiko Stadio Serron,Serres,Super League 1,2024,Relegation Round - 3,Panserraikos,Kallithea,3,1,FT
+1360728,2025-04-12 17:00:00+00:00,A. Tzilos,Panthessaliko Stadio,Volos,Super League 1,2024,Relegation Round - 3,Volos NFC,Levadiakos,1,0,FT
+1360712,2025-04-13 13:30:00+00:00,S. Zabalas,Stadio Theodoros Kolokotronis,Tripoli,Super League 1,2024,Conference League Play-off Group - 3,Asteras Tripolis,OFI,2,1,FT
+1360700,2025-04-13 16:00:00+00:00,F. Zwayer,Olympiako Stadio Spyros Louis,Athens,Super League 1,2024,Championship Round - 3,Panathinaikos,PAOK,3,1,FT
+1360713,2025-04-13 16:30:00+00:00,A. Sidiropoulos,Stadio Harilaou Kleánthis Vikelídis,Thessaloníki,Super League 1,2024,Conference League Play-off Group - 3,Aris Thessalonikis,Atromitos,1,0,FT
+1360701,2025-04-13 18:00:00+00:00,A. Colombo,Stadio Georgios Karaiskáki,Piraeus,Super League 1,2024,Championship Round - 3,Olympiakos Piraeus,AEK Athens FC,1,0,FT
+1360730,2025-04-23 15:00:00+00:00,A. Papapetrou,Dimotiko Athlitiko Kentro Lamias,Lamia,Super League 1,2024,Relegation Round - 4,Lamia,Volos NFC,1,3,FT
+1360729,2025-04-23 15:00:00+00:00,V. Fotias,Dimotiko Stadio Serron,Serres,Super League 1,2024,Relegation Round - 4,Panserraikos,Panetolikos,1,1,FT
+1360731,2025-04-23 17:30:00+00:00,A. Evangelou,Stadio Apóstolos Nikolaidis,Athens,Super League 1,2024,Relegation Round - 4,Kallithea,Levadiakos,0,3,FT
+1360715,2025-04-26 17:00:00+00:00,A. Evangelou,Stadio Thódoros Vardinoyánnis,Heraklion,Super League 1,2024,Conference League Play-off Group - 4,OFI,Asteras Tripolis,0,2,FT
+1360714,2025-04-26 17:00:00+00:00,A. Tsakalidis,Stadio Peristeriou,Athens,Super League 1,2024,Conference League Play-off Group - 4,Atromitos,Aris Thessalonikis,1,1,FT
+1360702,2025-04-27 17:00:00+00:00,H. Meler,OPAP Arena,Athens,Super League 1,2024,Championship Round - 4,AEK Athens FC,Olympiakos Piraeus,0,2,FT
+1360703,2025-04-27 17:00:00+00:00,H. Osmers,Stadio Toumbas,Thessaloníki,Super League 1,2024,Championship Round - 4,PAOK,Panathinaikos,2,1,FT
+1360733,2025-04-28 15:00:00+00:00,I. Papadopoulos,Stadio Panetolikou,Agrinio,Super League 1,2024,Relegation Round - 5,Panetolikos,Kallithea,0,1,FT
+1360732,2025-04-28 15:00:00+00:00,F. Polychronis,Stadio Levadias,Levadia,Super League 1,2024,Relegation Round - 5,Levadiakos,Lamia,0,0,FT
+1360734,2025-04-28 17:00:00+00:00,A. Katsikogiannis,Panthessaliko Stadio,Volos,Super League 1,2024,Relegation Round - 5,Volos NFC,Panserraikos,3,0,FT
+1360716,2025-05-03 17:00:00+00:00,A. Papapetrou,Stadio Theodoros Kolokotronis,Tripoli,Super League 1,2024,Conference League Play-off Group - 5,Asteras Tripolis,Atromitos,1,4,FT
+1360717,2025-05-03 17:00:00+00:00,A. Tzilos,Stadio Thódoros Vardinoyánnis,Heraklion,Super League 1,2024,Conference League Play-off Group - 5,OFI,Aris Thessalonikis,1,1,FT
+1360705,2025-05-04 17:00:00+00:00,D. Aytekin,Stadio Georgios Karaiskáki,Piraeus,Super League 1,2024,Championship Round - 5,Olympiakos Piraeus,PAOK,4,2,FT
+1360704,2025-05-04 17:00:00+00:00,E. Jorgji,OPAP Arena,Athens,Super League 1,2024,Championship Round - 5,AEK Athens FC,Panathinaikos,1,2,FT
+1360736,2025-05-05 15:00:00+00:00,F. Polychronis,Stadio Apóstolos Nikolaidis,Athens,Super League 1,2024,Relegation Round - 6,Kallithea,Panetolikos,0,0,FT
+1360735,2025-05-05 15:00:00+00:00,A. Sidiropoulos,Dimotiko Stadio Serron,Serres,Super League 1,2024,Relegation Round - 6,Panserraikos,Volos NFC,3,0,FT
+1360737,2025-05-05 17:00:00+00:00,S. Tsimenteridis,Dimotiko Athlitiko Kentro Lamias,Lamia,Super League 1,2024,Relegation Round - 6,Lamia,Levadiakos,2,3,FT
+1360738,2025-05-10 14:00:00+00:00,A. Papapetrou,Stadio Levadias,Levadia,Super League 1,2024,Relegation Round - 7,Levadiakos,Kallithea,4,1,FT
+1360739,2025-05-10 14:00:00+00:00,K. Katikos,Dimotiko Athlitiko Kentro Lamias,Lamia,Super League 1,2024,Relegation Round - 7,Lamia,Panserraikos,2,1,FT
+1360718,2025-05-10 15:30:00+00:00,F. Polychronis,Stadio Harilaou Kleánthis Vikelídis,Thessaloníki,Super League 1,2024,Conference League Play-off Group - 6,Aris Thessalonikis,Asteras Tripolis,4,2,FT
+1360719,2025-05-10 16:15:00+00:00,C. Vergetis,Stadio Peristeriou,Athens,Super League 1,2024,Conference League Play-off Group - 6,Atromitos,OFI,0,0,FT
+1360740,2025-05-10 17:00:00+00:00,V. Fotias,Stadio Panetolikou,Agrinio,Super League 1,2024,Relegation Round - 7,Panetolikos,Volos NFC,0,3,FT
+1360707,2025-05-11 17:00:00+00:00,A. Treimanis,Olympiako Stadio Spyros Louis,Athens,Super League 1,2024,Championship Round - 6,Panathinaikos,Olympiakos Piraeus,0,1,FT
+1360706,2025-05-11 17:00:00+00:00,S. Storks,Stadio Toumbas,Thessaloníki,Super League 1,2024,Championship Round - 6,PAOK,AEK Athens FC,1,0,FT
+1360743,2025-05-14 15:00:00+00:00,A. Sidiropoulos,Stadio Levadias,Levadia,Super League 1,2024,Relegation Round - 8,Levadiakos,Panetolikos,1,2,FT
+1360741,2025-05-14 17:00:00+00:00,V. Fotias,Stadio Apóstolos Nikolaidis,Athens,Super League 1,2024,Relegation Round - 8,Kallithea,Panserraikos,1,1,FT
+1360742,2025-05-14 17:00:00+00:00,I. Papadopoulos,Panthessaliko Stadio,Volos,Super League 1,2024,Relegation Round - 8,Volos NFC,Lamia,3,0,FT
+1360745,2025-05-18 12:00:00+00:00,C. Vergetis,Dimotiko Stadio Serron,Serres,Super League 1,2024,Relegation Round - 9,Panserraikos,Levadiakos,0,1,FT
+1360746,2025-05-18 15:00:00+00:00,S. Zabalas,Dimotiko Athlitiko Kentro Lamias,Lamia,Super League 1,2024,Relegation Round - 9,Lamia,Panetolikos,1,3,FT
+1360744,2025-05-18 17:00:00+00:00,A. Sidiropoulos,Panthessaliko Stadio,Volos,Super League 1,2024,Relegation Round - 9,Volos NFC,Kallithea,0,2,FT
+1360748,2025-05-22 15:00:00+00:00,F. Polychronis,Stadio Levadias,Levadia,Super League 1,2024,Relegation Round - 10,Levadiakos,Volos NFC,3,2,FT
+1360749,2025-05-22 15:00:00+00:00,A. Papapetrou,Stadio Panetolikou,Agrinio,Super League 1,2024,Relegation Round - 10,Panetolikos,Panserraikos,1,0,FT
+1360747,2025-05-22 17:00:00+00:00,S. Tsimenteridis,Stadio Apóstolos Nikolaidis,Athens,Super League 1,2024,Relegation Round - 10,Kallithea,Lamia,3,0,FT
