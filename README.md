@@ -19,6 +19,15 @@ The project focuses on team-level and match-level analysis, with an emphasis on 
 - **Data Validation:** Run automated checks to identify missing, duplicate or inconsistent match data.
 - **Automated Tests:** Use `pytest` to test the shared team-metrics calculations.
 
+## Application Preview
+
+### League Overview Dashboard
+
+![Greek Football Analytics Dashboard](screenshots/dashboard.png)
+![Greek Football Analytics Dashboard](screenshots/dashboard1.png)
+![Greek Football Analytics Dashboard](screenshots/dashboard2.png)
+![Greek Football Analytics Dashboard](screenshots/dashboard3.png)
+
 ## Dataset
 
 **Competition:** Greek Super League  
