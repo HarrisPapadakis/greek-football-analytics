@@ -21,12 +21,21 @@ The project focuses on team-level and match-level analysis, with an emphasis on 
 
 ## Application Preview
 
-### League Overview Dashboard
+### 1. League Overview
 
-![Greek Football Analytics Dashboard](screenshots/dashboard.png)
-![Greek Football Analytics Dashboard](screenshots/dashboard1.png)
-![Greek Football Analytics Dashboard](screenshots/dashboard2.png)
-![Greek Football Analytics Dashboard](screenshots/dashboard3.png)
+![League Overview](screenshots/dashboard.png)
+
+### 2. Match Explorer
+
+![Match Explorer](screenshots/dashboard1.png)
+
+### 3. Team Analysis
+
+![Team Analysis](screenshots/dashboard2.png)
+
+### 4. Team Comparison
+
+![Team Comparison](screenshots/dashboard3.png)
 
 ## Dataset
 
