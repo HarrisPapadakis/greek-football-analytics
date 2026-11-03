@@ -81,6 +81,49 @@ These findings are based on the processed dataset included in this repository.
 
 *Note: The analytical league table is calculated using points, goal difference and goals scored. Its ordering may differ from the official ranking if additional competition-specific tie-break rules apply.*
 
+## Home vs Away Performance
+
+Home and away performance can reveal important differences in how teams perform throughout the season.
+
+| Team | Home Points | Away Points | Home Goals | Away Goals |
+|---|---:|---:|---:|---:|
+| Olympiakos | 31 | 29 | 23 | 22 |
+| AEK Athens | 30 | 23 | 27 | 17 |
+| PAOK | 20 | 26 | — | — |
+| Atromitos | 12 | 23 | — | — |
+| Volos NFC | 6 | 16 | — | — |
+
+### Key Observations
+
+- **Olympiakos** demonstrated consistency in both home and away matches, collecting 31 and 29 points respectively.
+- **AEK Athens** achieved a stronger home record, earning 30 points compared with 23 away from home.
+- **PAOK** collected more points away from home than at home (26 versus 20).
+- **Atromitos** and **Volos NFC** also collected more points away from home during the Regular Season.
+
+## Defensive Performance
+
+Clean sheets provide an additional indicator of defensive performance.
+
+| Team | Clean Sheets | Percentage of Matches |
+|---|---:|---:|
+| AEK Athens | 14 | 53.85% |
+| Olympiakos | 13 | 50.00% |
+| Panathinaikos | 11 | 42.31% |
+
+### AEK Athens: Home and Away Defensive Performance
+
+AEK Athens recorded a particularly strong defensive performance at home:
+
+| Metric | Home | Away |
+|---|---:|---:|
+| Goals scored per match | 2.08 | 1.31 |
+| Goals conceded per match | 0.38 | 0.85 |
+
+The figures show that AEK scored more goals and conceded fewer goals per match at home than away.
+
+These are descriptive statistics and do not, by themselves, establish the causes of differences in team performance.
+
+
 ## Technologies
 
 - **Python** — data processing and analysis
