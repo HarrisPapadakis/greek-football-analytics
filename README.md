@@ -10,6 +10,12 @@ The dataset contains **236 matches** from the 2024–25 Greek Super League seaso
 
 The project focuses on team-level and match-level analysis, with an emphasis on data quality, reproducible calculations and clear presentation of results.
 
+## Live Demo
+
+Explore the interactive application:
+
+**[Open Greek Football Analytics Dashboard](https://greek-football-analytics.streamlit.app/)**
+
 ## Key Features
 
 - **League Overview:** Key league statistics, standings and team performance indicators.
