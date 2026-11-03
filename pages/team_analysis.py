@@ -5,6 +5,7 @@ import altair as alt
 
 from utils.data_loader import load_matches
 from utils.team_metrics import calculate_team_metrics
+from utils.form_analysis import build_team_match_history
 
 
 # ==================================================
@@ -159,6 +160,223 @@ m7.metric(
     f'{overall["points"] / overall["matches_played"]:.2f}'
     if overall["matches_played"] > 0 else "0.00"
 )
+
+
+# ==================================================
+# 7. RECENT FORM - LAST 5 MATCHES
+# ==================================================
+
+st.divider()
+
+st.header("Recent Form - Last 5 Matches")
+
+st.caption(
+    "The five most recent completed matches across all phases "
+    "of the 2024-25 season."
+)
+
+try:
+    # Use the full season dataset, including all phases
+    form_history = build_team_match_history(
+        df,
+        selected_team
+    )
+
+    last_five = form_history.tail(5).copy()
+
+    if last_five.empty:
+        st.info("No recent match data available.")
+    else:
+        # ------------------------------------------
+        # RECENT FORM KPIs
+        # ------------------------------------------
+
+        recent_points = int(last_five["points"].sum())
+        recent_goals_for = int(last_five["goals_for"].sum())
+        recent_goals_against = int(last_five["goals_against"].sum())
+        recent_goal_difference = (
+            recent_goals_for - recent_goals_against
+        )
+
+        r1, r2, r3, r4 = st.columns(4)
+
+        r1.metric(
+            "Points (Last 5)",
+            recent_points,
+            help="Total points collected in the last five matches."
+        )
+
+        r2.metric(
+            "Goals Scored",
+            recent_goals_for
+        )
+
+        r3.metric(
+            "Goals Conceded",
+            recent_goals_against
+        )
+
+        r4.metric(
+            "Goal Difference",
+            f"{recent_goal_difference:+d}"
+        )
+
+        st.subheader("Form Sequence")
+
+        # ------------------------------------------
+        # COLOURED FORM INDICATORS
+        # ------------------------------------------
+
+        form_columns = st.columns(len(last_five))
+
+        for column, (_, match) in zip(
+            form_columns,
+            last_five.iterrows()
+        ):
+            match_date = match["date"].strftime("%d/%m")
+            opponent = match["opponent"]
+
+            score = (
+                f'{int(match["goals_for"])} - '
+                f'{int(match["goals_against"])}'
+            )
+
+            with column:
+                st.caption(match_date)
+                st.write(opponent)
+
+                if match["result"] == "W":
+                    st.success(f'W | {score}')
+
+                elif match["result"] == "D":
+                    st.warning(f'D | {score}')
+
+                else:
+                    st.error(f'L | {score}')
+
+        # ------------------------------------------
+        # GOALS IN THE LAST FIVE MATCHES
+        # ------------------------------------------
+
+        st.subheader("Goals - Last 5 Matches")
+
+        last_five["Match"] = (
+            last_five["date"].dt.strftime("%d/%m")
+            + " vs "
+            + last_five["opponent"].astype(str)
+        )
+
+        goals_form_data = last_five.melt(
+            id_vars=["Match", "result"],
+            value_vars=[
+                "goals_for",
+                "goals_against"
+            ],
+            var_name="Metric",
+            value_name="Goals"
+        )
+
+        goals_form_data["Metric"] = (
+            goals_form_data["Metric"].map({
+                "goals_for": "Goals For",
+                "goals_against": "Goals Against"
+            })
+        )
+
+        match_order = last_five["Match"].tolist()
+
+        recent_goals_chart = alt.Chart(
+            goals_form_data
+        ).mark_bar().encode(
+
+            x=alt.X(
+                "Match:N",
+                sort=match_order,
+                title="Match",
+                axis=alt.Axis(labelAngle=-35)
+            ),
+
+            y=alt.Y(
+                "Goals:Q",
+                title="Goals",
+                scale=alt.Scale(domainMin=0)
+            ),
+
+            xOffset=alt.XOffset(
+                "Metric:N"
+            ),
+
+            color=alt.Color(
+                "Metric:N",
+                title="Metric",
+                scale=alt.Scale(
+                    domain=["Goals For", "Goals Against"],
+                    range=["#2196F3", "#E45756"]
+                )
+            ),
+
+            tooltip=[
+                "Match",
+                "result",
+                "Metric",
+                "Goals"
+            ]
+
+        ).properties(
+            height=300,
+            title="Goals Scored vs Goals Conceded"
+        )
+
+        st.altair_chart(
+            recent_goals_chart,
+            width="stretch"
+        )
+
+        # ------------------------------------------
+        # LAST FIVE MATCHES TABLE
+        # ------------------------------------------
+
+        st.subheader("Recent Match Details")
+
+        recent_table = last_five.copy()
+
+        recent_table["Date"] = (
+            recent_table["date"].dt.strftime("%d/%m/%Y")
+        )
+
+        recent_table["Score"] = (
+            recent_table["goals_for"].astype(int).astype(str)
+            + " - "
+            + recent_table["goals_against"].astype(int).astype(str)
+        )
+
+        recent_table = recent_table[
+            [
+                "Date",
+                "venue",
+                "opponent",
+                "Score",
+                "result",
+                "points"
+            ]
+        ].rename(
+            columns={
+                "venue": "Venue",
+                "opponent": "Opponent",
+                "result": "Result",
+                "points": "Points"
+            }
+        )
+
+        st.dataframe(
+            recent_table,
+            width="stretch",
+            hide_index=True
+        )
+
+except (ValueError, KeyError) as error:
+    st.warning(f"Recent form analysis unavailable: {error}")
+
 
 
 # ==================================================
