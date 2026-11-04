@@ -47,6 +47,12 @@ attack_defence_page = st.Page(
     icon=":material/shield:"
 )
 
+consistency_page = st.Page(
+    "pages/consistency_analysis.py",
+    title="Consistency Analysis",
+    icon=":material/assessment:"
+)
+
 team_comparison_page = st.Page(
     "pages/team_comparison.py",
     title="Team Comparison",
@@ -78,6 +84,7 @@ pg = st.navigation(
             team_analysis_page,
             team_momentum_page,
             attack_defence_page,
+            consistency_page,
             team_comparison_page,
             dashboard_page
         ],
