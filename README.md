@@ -21,9 +21,11 @@ Explore the interactive application:
 - **League Overview:** Key league statistics, standings and team performance indicators.
 - **Match Explorer:** Search and filter matches by phase, team, result, date and other available match information.
 - **Team Analysis:** Examine an individual team's results, goals scored and conceded, and home/away performance.
+- **Recent Form:** Analyse the last five matches of each team, including results, points and goals scored and conceded.
+- **Team Momentum:** Compare team performance using rolling points per match over the latest five completed matches.
 - **Team Comparison:** Compare two teams using performance metrics and visualisations.
 - **Data Validation:** Run automated checks to identify missing, duplicate or inconsistent match data.
-- **Automated Tests:** Use `pytest` to test the shared team-metrics calculations.
+- **Automated Tests:** Use `pytest` to test the project's analytical calculations.
 
 ## Application Preview
 
@@ -160,23 +162,35 @@ greek-football-analytics/
 │       ├── home_away_analysis.csv
 │       ├── goals_per_match.csv
 │       ├── clean_sheets_analysis.csv
-│       └── ... analytical charts and reports
+│       └── ... charts and analytical reports
+│
+├── screenshots/
+│   ├── dashboard.png
+│   ├── dashboard1.png
+│   ├── dashboard2.png
+│   └── dashboard3.png
 │
 ├── pages/
 │   ├── dashboard.py
 │   ├── league_overview.py
 │   ├── match_explorer.py
 │   ├── team_analysis.py
+│   ├── team_momentum.py
 │   ├── team_comparison.py
 │   └── project_info.py
 │
 ├── utils/
+│   ├── __init__.py
 │   ├── data_loader.py
 │   ├── data_validation.py
+│   ├── form_analysis.py
+│   ├── momentum_analysis.py
 │   ├── logger.py
 │   └── team_metrics.py
 │
 └── tests/
+    ├── test_form_analysis.py
+    ├── test_momentum_analysis.py
     └── test_team_metrics.py
 ```
 
