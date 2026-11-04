@@ -35,6 +35,18 @@ team_analysis_page = st.Page(
     icon=":material/groups:"
 )
 
+team_momentum_page = st.Page(
+    "pages/team_momentum.py",
+    title="Team Momentum",
+    icon=":material/trending_up:"
+)
+
+team_comparison_page = st.Page(
+    "pages/team_comparison.py",
+    title="Team Comparison",
+    icon=":material/compare_arrows:"
+)
+
 dashboard_page = st.Page(
     "pages/dashboard.py",
     title="Full Dashboard",
@@ -45,12 +57,6 @@ project_page = st.Page(
     "pages/project_info.py",
     title="Project Information",
     icon=":material/info:"
-)
-
-team_comparison_page = st.Page(
-    "pages/team_comparison.py",
-    title="Team Comparison",
-    icon=":material/compare_arrows:"
 )
 
 
@@ -64,6 +70,7 @@ pg = st.navigation(
             overview_page,
             match_page,
             team_analysis_page,
+            team_momentum_page,
             team_comparison_page,
             dashboard_page
         ],
