@@ -41,6 +41,12 @@ team_momentum_page = st.Page(
     icon=":material/trending_up:"
 )
 
+attack_defence_page = st.Page(
+    "pages/attack_defence.py",
+    title="Attack vs Defence",
+    icon=":material/shield:"
+)
+
 team_comparison_page = st.Page(
     "pages/team_comparison.py",
     title="Team Comparison",
@@ -71,6 +77,7 @@ pg = st.navigation(
             match_page,
             team_analysis_page,
             team_momentum_page,
+            attack_defence_page,
             team_comparison_page,
             dashboard_page
         ],
