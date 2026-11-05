@@ -53,6 +53,12 @@ consistency_page = st.Page(
     icon=":material/assessment:"
 )
 
+matchday_page = st.Page(
+    "pages/matchday_analysis.py",
+    title="Matchday Analysis",
+    icon=":material/calendar_month:"
+)
+
 team_comparison_page = st.Page(
     "pages/team_comparison.py",
     title="Team Comparison",
@@ -85,6 +91,7 @@ pg = st.navigation(
             team_momentum_page,
             attack_defence_page,
             consistency_page,
+            matchday_page,
             team_comparison_page,
             dashboard_page
         ],
